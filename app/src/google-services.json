@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720071549233",
+    "project_id": "answerandquestion-4ba25",
+    "storage_bucket": "answerandquestion-4ba25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720071549233:android:2635d49b9183b81a171010",
+        "android_client_info": {
+          "package_name": "com.usama.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhVxzQrGHxQMBgJdqqRlE7Ailc3ITXq28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

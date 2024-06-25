@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">chatapp</string>
+    <string name="hello">Hello</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="one_time_password"> One Time Password</string>
+    <string name="we_will_send_you_an_">We will send you an  </string>
+    <string name="on_this_mobile">on this mobile</string>
+    <string name="type_your_phone_number">Type Your Phone Number</string>
+    <string name="verify_923039543543">Verify +923039543543</string>
+    <string name="enter_otp_code_to_verify_your_phone_number">Enter OTP code to Verify your Phone Number</string>
+    <string name="underscore">_</string>
+    <string name="Continue">Continue</string>
+    <string name="profile_informaton">Profile Informaton</string>
+    <string name="please_setup_your_name_and_an_optional_profile_image">Please setup your name and an optional Profile Image</string>
+    <string name="type_your_name">Type Your Name</string>
+    <string name="setup_profile">Setup Profile</string>
+    <string name="ansewer_amp_question"><![CDATA[Ansewer & Question]]></string>
+    <string name="image">image</string>
+    <string name="ask_you_any_question_for_expert_and_get_solution_for_your_problem">Ask you any question for expert and get solution for your problem</string>
+    <string name="work_in_android_development_and_application_ui_design">Work in Android Development and Application UI Design</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="online">Online</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="answer_question">Answer Question</string>
+    <string name="delete_for_me">Delete for Me</string>
+    <string name="cancle">Cancle</string>
+    <string name="delete_for_everyone">Delete for Everyone</string>
+
+</resources>
